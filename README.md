@@ -8,8 +8,8 @@ This repository contains two Python scripts for real-time traffic density analys
 
 The project consists of two main scripts:
 
-1. **TrafficDensity.py**: Captures live video feed, detects vehicles in two lanes, classifies traffic density, and saves the data to CSV files.
-2. **TrafficLstm.py**: Loads the traffic density data, preprocesses it, trains LSTM models, and makes predictions for future traffic densities.
+1. **TRaffic.py**: Captures live video feed, detects vehicles in two lanes, classifies traffic density, and saves the data to CSV files.
+2. **trafficlstmfinal.py**: Loads the traffic density data, preprocesses it, trains LSTM models, and makes predictions for future traffic densities.
 
 ## Requirements
 
